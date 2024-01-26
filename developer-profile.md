@@ -29,7 +29,6 @@
 - [E5.](https://github.com/osipovnv/tetratrans-playbook/blob/master/developer-profile.md#E5)
 - [E6.](https://github.com/osipovnv/tetratrans-playbook/blob/master/developer-profile.md#E6)
 - [E7.](https://github.com/osipovnv/tetratrans-playbook/blob/master/developer-profile.md#E7)
-- [E8.](https://github.com/osipovnv/tetratrans-playbook/blob/master/developer-profile.md#E8)
 
 Все профили описаны по блокам:
 
